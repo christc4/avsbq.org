@@ -1,10 +1,12 @@
 # _Everything you'd want to know about my computing_
 
-Listed by order of usage
+Ordered by usage
 
 ## Hardware
 
 - *LAPTOP*: Thinkpad x230 & x61s
+    - The x230, has coreboot and the classic keyboard mod. I've written more about it here [blank](http://avsbq.org)
+    - The x6 series is my sweetheart, I love the compact keyboard and 4:3 screen
 
 ## Software
 
@@ -17,10 +19,6 @@ Listed by order of usage
 - *OS*: artix, openbsd
 - *TERMINAL*: st, foot
 - *TYPESETTING*: groff, postscript, latex
-
-## Miscellaneous
-
-I like standing desks
 
 ## Peripherals
 
@@ -37,3 +35,11 @@ I like standing desks
 - tex shinobi
 - kinesis
 - unicomp endura pro
+
+## Miscellaneous
+
+I like standing desks,
+run this command for blue light,
+
+`gammastep -l 31.4:64.1 -t 5700:3600 -g 0.8 -m randr -v`
+

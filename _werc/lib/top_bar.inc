@@ -10,7 +10,6 @@
     </div>
 
     <div>
-      <a href="http://cat-v.org/update_log">site updates</a> |
-      <a href="/sitemap">site map</a>
+      <a href="">webring</a>
     </div>
 

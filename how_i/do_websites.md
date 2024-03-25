@@ -17,3 +17,15 @@ What I would like are my own instances of
 - Whoogle
 - Invidious
 - Git
+
+# General advise
+
+- Don't use LinkedIn
+- Don't use Medium
+- Don't use SubStack
+- Don't use SquareSpace
+- Don't use WordPress
+- Don't use Wix
+
+I no longer use this but [landchad.net](https://landchad.net) has everything you need to know about aquiring a domain and setting up your first website (alongside various other self-hosting services)
+
